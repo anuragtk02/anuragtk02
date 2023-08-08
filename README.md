@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **web development**
 
-- 📫 How to reach me **anuragtk07@gmail.com**
+- 📫 How to reach me **Instagram - Imanurag_tk07**
 
 - ⚡ Fun fact **I am Batman**
 
