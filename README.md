@@ -23,8 +23,8 @@
 **Github Stats:**
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragtk02&count_private=true&show_icons=true&theme=dracula&line_height=33" width="400" height="200">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragtk02&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=33" width="400" height="200">
+  <img src="https://github-readme-stats.vercel.app/api?username=anuragtk02&count_private=true&show_icons=true&theme=dracula&line_height=33" width="400" height="230">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragtk02&count_private=true&hide=html,scss,ejs&theme=dracula&line_height=33" width="400" height="230">
 </p>
 
 
