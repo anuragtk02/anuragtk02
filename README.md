@@ -27,6 +27,7 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=anuragtk02&show_icons=true&locale=en" alt="anuragtk02" width="400" height="200" />
 </p>
+ ---
 **Github Stats:**
 
 <p align="center">
@@ -35,5 +36,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragtk02&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
+ ---
 
 
