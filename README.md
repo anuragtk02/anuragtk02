@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Anurag Takalkar</h1>
 <h3 align="center">A Computer science engineering student</h3>
----
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anuragtk02&label=Profile%20views&color=0e75b6&style=flat" alt="anuragtk02" /> </p>
 
 - 🔭 I’m currently working on **MERN**
@@ -28,6 +28,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuragtk02&count_private=true&hide=html,scss,,ejs&theme=dracula&line_height=10">
 
 </p>
- ---
+
 
 
